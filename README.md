@@ -15,6 +15,10 @@ A modern desktop application built with Python and `customtkinter` that allows y
 
 Here's a look at the application in action.
 
+## 📸 Screenshots
+
+Here's a look at the application in action.
+
 **Main Window:**
 <img src="Screenshots/Main.png" alt="Steganography Tool Screenshot" width="300" height="400">
 
