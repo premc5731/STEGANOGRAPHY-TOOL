@@ -19,11 +19,12 @@ Here's a look at the application in action.
 
 Here's a look at the application in action.
 
-**Main Window:**
-<img src="Screenshots/Main.png" alt="Steganography Tool Screenshot" width="300" height="400">
+### Main Window  
+<img src="Screenshots/Main.png" width="400"/>
 
-**Hiding a Message:**
-<img src="Screenshots/Hide_data.png" alt="Steganography Tool Screenshot" width="300" height="400">
+### Hiding a Message  
+<img src="Screenshots/Hide_data.png" width="400"/>
+
 
 ## Technologies Used
 
