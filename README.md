@@ -2,22 +2,20 @@
 
 A modern desktop application built with Python and `customtkinter` that allows you to hide secret text messages within images using the Least Significant Bit (LSB) steganography technique.
 
+## Technologies Used
+
+* **Python 3**: The core programming language.
+* **CustomTkinter**: For creating the modern graphical user interface.
+* **Pillow (PIL)**: For image manipulation and processing.
+* **Stegano**: For the core LSB steganography logic.
+* **CTkMessagebox**: For displaying modern, themed message boxes.
+
 ## Features
 
-* **Modern UI**: A clean and intuitive user interface built with the `customtkinter` library.
-* **Open & Preview Images**: Easily load and preview PNG or JPG image files.
-* **Hide Text**: Embed any text message securely into the selected image.
-* **Reveal Text**: Extract the hidden message from a stego-image.
-* **Save Stego-Image**: Save the new image containing the hidden data to your local machine.
-* **User-Friendly Feedback**: Clear success and error messages to guide the user.
+* Securely embed, extract, and save secret text within PNG or JPG images.
+* Features a clean, modern interface with user-friendly feedback and confirmations.
 
 ## Screenshots
-
-Here's a look at the application in action.
-
-## 📸 Screenshots
-
-Here's a look at the application in action.
 
 ### Main Window  
 <img src="Screenshots/Main.png" width="300"/>
@@ -26,13 +24,6 @@ Here's a look at the application in action.
 <img src="Screenshots/Hide_data.png" width="300"/>
 
 
-## Technologies Used
-
-* **Python 3**: The core programming language.
-* **CustomTkinter**: For creating the modern graphical user interface.
-* **Pillow (PIL)**: For image manipulation and processing.
-* **Stegano**: For the core LSB steganography logic.
-* **CTkMessagebox**: For displaying modern, themed message boxes.
 
 ## Setup and Installation
 
