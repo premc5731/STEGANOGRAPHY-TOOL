@@ -20,10 +20,10 @@ Here's a look at the application in action.
 Here's a look at the application in action.
 
 ### Main Window  
-<img src="Screenshots/Main.png" width="400"/>
+<img src="Screenshots/Main.png" width="300"/>
 
 ### Hiding a Message  
-<img src="Screenshots/Hide_data.png" width="400"/>
+<img src="Screenshots/Hide_data.png" width="300"/>
 
 
 ## Technologies Used
